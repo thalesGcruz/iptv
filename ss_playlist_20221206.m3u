@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1" size="Medium", RECORD
+ https://server100.online/record/tracks-v1a1/mono.m3u8?token=1cc0dec164a169e6420b4c48e81d13c6450afe00-08ab7f0e5ccffd39c2c3caadf24f6b43-1670302354-1670295154
+#EXTINF:0 type="stream" channelId="-1" size="Medium", SBT
+https://server100.online/sbt/tracks-v1a1/mono.m3u8?token=a71b70f994c2c3853d0c429b44d1e36e0812fb63-a4f45e1d4ddc686a41fc66d1419640f6-1670302389-1670295189
+#EXTINF:0 type="stream" channelId="-1" size="Medium", GLOBO
+https://live-01.edge-mob-jod-ce.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhcHBsaWNhdGlvbiI6IjQ2NTQiLCJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1tb2Itam9kLWNlLnZpZGVvLmdsb2JvLmNvbSIsImV4cCI6MTY3MDM2NDk3MCwiaWF0IjoxNjcwMjc4NTcwLCJpc3MiOiJwbGF5YmFjay1hcGktcHJvZC1nY3AiLCJvcGVuX3N0YXR1cyI6IkYiLCJvd25lciI6ImI2MjliOGNiLWI1MWMtNGNmZC05Y2ZiLWE3Y2EzNzY1OTIyMSIsInBhdGgiOiIvZC9zL2hscy1nbG9iby1jZTIvcGxheWxpc3QubTN1OCIsInVzZXJTZXNzaW9uS2V5IjoiNmJkMTMzZDgtN2RjZS1jMDI3LTdkYjgtYjdiNTBmNWE2OWY0In0.WSBxxyCPWVqMdUUJPA2D_JYqWDoYgyB0lQtQuvdx77WQr7VB9QyQLEoLup5ygDcww4XpPlmdexGVuVpHpH9iryTNUuvi2X5zU7Mq4nA_N85N3sY60UxDuU76_lnb8_Y0lpZC2Bvb9GZRvK3nM1rYpCo-QLeD8CJDhv_m6kK-NyC72UnVrM0AsAC_IJIiqs1X0mZfhlgS-BwA8PXTPX-cHKaS7LoZ9P2dAABQQf2NYhRyFSehP-kZuQlrkNN3Agby4C-aSfO5gNpJ7CEBAPN5wSLG5CWeEyW_BKeX-AyokiBNWSshdwHVfIan94jm6J-VLm9KRJrfAmm1_EdzDrBRwg/d/s/hls-globo-ce2/hls-globo-ce2_2359/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" size="Medium", HBO
+https://server100.online/hbo/tracks-v1a1l1/mono.m3u8?token=dd569148aa75c4c05fcd68b4bedc8534dd80f115-64951a2c8a33c028a28a32004326767d-1670298872-1670291672
+#EXTINF:0 type="stream" channelId="-1" size="Medium", HBO PLUS
+ https://server100.online/hbo-plus/tracks-v1a1l1/mono.m3u8?token=06ecce0321b1c36fb84af70986486d1cfff1de48-4cad99bdc9087f4b531881fb21c0622c-1670301582-1670294382
+#EXTINF:0 type="stream" channelId="-1" size="Medium", HBO EXTREME
+ https://server100.online/hbo-xtreme/tracks-v1a1l1/mono.m3u8?token=ef62f88f555e7ddbe4d211dd0097a0f4e24ebbc6-669d38452703ec3fd08d4da6297b2c07-1670302977-1670295777
+#EXTINF:0 type="stream" channelId="-1" size="Medium", HBO FAMILY
+https://server100.online/hbo-family/tracks-v1a1/mono.m3u8?token=80d2571a63b63f129527fe5dc7dfdc3bc794c218-727cf5f8cd213d8595ff32eb02cfdea0-1670301551-1670294351
+#EXTINF:0 type="stream" channelId="-1" size="Medium", HBO ASINGNATURE
+https://server100.online/hbo-signature/tracks-v1a1/mono.m3u8?token=f0cc95cfc7edf1a901821e1a775399558cc78a4d-a3b3cecbb6620b4f3580aace43ff0164-1670301365-1670294165
+#EXTINF:0 type="stream" channelId="-1" size="Medium", WARNER BROS
+ https://server100.online/warner/tracks-v1a1/mono.m3u8?token=0efa71a11fe1faaf569a346b42c46accf966ce87-a5424b87c36b61f25ae74bf313524740-1670303151-1670295951
+#EXTINF:0 type="stream" channelId="-1", PARAMOUNT 
+https://server100.online/paramount/tracks-v1a1/mono.m3u8?token=d9c948c2b41c8941be2d57f6b1c497b15d6bc74d-d84ba2667d3d15bc9af4f330e6eb0e08-1670299758-1670292558
+#EXTINF:0 type="stream" channelId="-1" size="Medium", CINEMAX
+ https://server100.online/cinemax/tracks-v1a1/mono.m3u8?token=60c9d7acc92d0b1fd0398917cfe7e843a64490f1-6a04e19e6ff50430de43e937bf274230-1670302700-1670295500
+#EXTINF:0 type="stream" channelId="-1" size="Medium", SPACE
+https://server100.online/space/tracks-v1a1l1/mono.m3u8?token=fb4dfd5ccb8142d2cac37de230bf821b64f07ba3-947bb7543fc0469354a2d75deab9e1dd-1670300378-1670293178
+#EXTINF:0 type="stream" channelId="-1" size="Medium", FX
+https://server100.online/fx/tracks-v1a1/mono.m3u8?token=8c01706ab344cd66d979f16d7b563544cc584ed5-e7b8b46ce9f07edd5db316a31ab0bec8-1670302463-1670295263
+#EXTINF:0 type="stream" channelId="-1", UNIVERSAL CHANNEL
+https://server100.online/universal/tracks-v1a1l1/mono.m3u8?token=65469cc9e62213496ad95005432683d326b0d051-9ec951008b60dec5aae2b9c21c27be62-1670299505-1670292305
+#EXTINF:0 type="stream" channelId="-1" size="Medium", TNT SÉRIES
+https://server100.online/tnt-serie/tracks-v1a1l1/mono.m3u8?token=b89c5887254f35f9540fe83f695b6fffe3bebb84-549d992677b414d61aa2b75d832d408a-1670300852-1670293652
+#EXTINF:0 type="stream" channelId="-1" size="Medium", TNT
+https://server100.online/tnt/tracks-v1a1l1/mono.m3u8?token=29f9383e8d5e435ae30135384b6c913b2dcb2af9-c9a23720e144e84851dbdafd0a86cf7e-1670301761-1670294561
+#EXTINF:0 type="stream" channelId="-1" size="Medium", TNT SPORTS
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-480p.m3u8
+#EXTINF:0 type="stream" channelId="-1" size="Medium", SPORT TV
+https://server100.online/sportv/tracks-v1a1/mono.m3u8?token=d323c347ec8c86038641223382b57fac23b4cef8-858ec20de86aae6b70501b0b9093b749-1670302144-1670294944
+#EXTINF:0 type="stream" channelId="-1" size="Medium", SPORT TV 2
+https://server100.online/sportv2/tracks-v1a1/mono.m3u8?token=4397c10b984cb02dd6d1464622e825339e79604a-569bb49257c5fdbf48a14938dcf3d53a-1670301808-1670294608
+#EXTINF:0 type="stream" channelId="-1" size="Medium", SPORT TV 3
+https://server100.online/sportv3/tracks-v1a1/mono.m3u8?token=4bfc09670e2bd1de399bf730e304685faf0cb61d-f5b4918b0dcb0945c5454f30e9e9d806-1670302867-1670295667
+#EXTINF:0 type="stream" channelId="-1" size="Medium", PREMIERE
+https://server100.online/premiereclube/tracks-v1a1/mono.m3u8?token=64e7bdb85f6bed707f8b629721b7ffdc3faf32d7-55bcce2e2fd965c2c7b051723819e4fd-1670301038-1670293838
+#EXTINF:0 type="stream" channelId="-1" size="Medium", SPN
+https://server100.online/espn/tracks-v1a1/mono.m3u8?token=29607740d6b0b4245c3a9cbb0953a07485e613a8-fc049700cc7f0852d867fb41fdd7a2f2-1670302187-1670294987
+#EXTINF:0 type="stream" channelId="-1" size="Medium", FOX SPORTS 2
+https://server100.online/fox-sports2/tracks-v1a1/mono.m3u8?token=650053fe3f4d10c2516b46d33823692a408f17f1-545d06a9b828722a59a308faff9e7733-1670305616-1670298416
+#EXTINF:0 type="stream" channelId="-1" size="Medium", COMBATE
+https://server100.online/combate/tracks-v1a1/mono.m3u8?token=894615f3d219ae21cf1d952a964863f0071badb3-9613b7fc6c9f7aa55482aa1af1799fa6-1670301641-1670294441
+#EXTINF:0 type="stream" channelId="-1" size="Medium", BAND SPORTS
+https://server100.online/band-sports/tracks-v1a1/mono.m3u8?token=780eacb0b6384ffa6bc5311964485cd6dd2fab07-2d4179609b71bcd47cb10afcb5a0961b-1670301198-1670293998
+#EXTINF:0 type="stream" channelId="-1" size="Medium", BAND NEWS
+https://server100.online/band-news/tracks-v1a1/mono.m3u8?token=ece22660051a61f0cf4127e675a0160c8f74c561-a20d5c069eac174138fb1fbf9f25832e-1670305375-1670298175
+#EXTINF:0 type="stream" channelId="-1" size="Medium", GLOBO NEWS
+https://server100.online/globo-news/tracks-v1a1/mono.m3u8?token=2744145b1d25826de8084976814763b3529161eb-2c95f134d2649af88f31a17f83611800-1670305515-1670298315
+#EXTINF:0 type="stream" channelId="-1" size="Medium", DISCOVERY CHANNEL
+https://server100.online/discovery-channel/tracks-v1a1/mono.m3u8?token=ee6081c0af27481521a316cce348953b86a17777-ab386905552ae887bf509659acf480aa-1670302514-1670295314
+#EXTINF:0 type="stream" channelId="-1" size="Medium", HISTORY
+https://server100.online/history/tracks-v1a1/mono.m3u8?token=97dbff7a3ef7dd78ba5982aaad0f760bcc2164b0-48ecd2fe6f633b960f407887d377cbad-1670301962-1670294762
+#EXTINF:0 type="stream" channelId="-1" size="Medium", HISTORY 2
+https://server100.online/h2/tracks-v1a1/mono.m3u8?token=4518fd7700b2182c8dadf14cd68ab187eeddac31-ccb5bddc04bb893f9436733498bf07b8-1670300529-1670293329
+#EXTINF:0 type="stream" channelId="-1" size="Medium", NATIONAL GEOGRAPHIC
+https://server100.online/nat-geo/tracks-v1a1/mono.m3u8?token=84a4797206e2d3fc3e8098b217dc45ae738c06c4-7d1b53d1b536652d4d8e15bafab7dc51-1670301857-1670294657
+#EXTINF:0 type="stream" channelId="-1" size="Medium", ANIMAL PLANETA
+https://server100.online/animal-planet/tracks-v1a1/mono.m3u8?token=561094a64c722cd3ca6e5d0ac7339722c0674e84-5c2c167d9dbe377f20a07b929a543321-1670302557-1670295357
+#EXTINF:0 type="stream" channelId="-1" size="Medium", COMEDY CENTRAL
+https://server100.online/comedy-central/tracks-v1a1/mono.m3u8?token=3f39666945febc467f46068b37364cf7b602d35b-b1ccddb5f580c1d9be44d4612544231b-1670300621-1670293421
+#EXTINF:0 type="stream" channelId="-1" size="Medium", CARTOONITO
+https://server100.online/cartoonito/tracks-v1a1/mono.m3u8?token=50ece3b46a08b3281ca45530fc3ffd3e43295bfb-6b32bac8ac0cc23a0ffa7840ff873d72-1670300776-1670293576
+#EXTINF:0 type="stream" channelId="-1" size="Medium", NICK
+https://server100.online/nick/tracks-v1a1/mono.m3u8?token=ee392803703531efe8633ffc790396b22b267448-28d91068c75332e0e631e3dec4a52815-1670301703-1670294503
+#EXTINF:0 type="stream" channelId="-1" size="Medium", NICK JN
+https://server100.online/nick-jr/tracks-v1a1/mono.m3u8?token=d2a1c5adb3b57bcf62c3dd12099cdb886ee517a9-c38306af1b2869e96f5874ab797b334d-1670302082-1670294882
+#EXTINF:0 type="stream" channelId="-1" size="Medium", DISNEY CHANNEL
+
+#EXTINF:0 type="stream" channelId="-1" size="Medium", CARTOON NETWORK
+https://server100.online/cartoon/tracks-v1a1/mono.m3u8?token=726dd6869c6aded844d0708bbb0078d9ca7ce4f2-3118dd6d9272b7fed11b356ffe235464-1670302032-1670294832
